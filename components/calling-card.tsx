@@ -23,6 +23,7 @@ export function CallingCard() {
             <p className="text-base font-medium text-primary sm:text-lg">
               Computer Science Student at UMass Lowell
             </p>
+            <p className="text-sm text-muted-foreground sm:text-base">Open to internships</p>
           </div>
         </header>
 
