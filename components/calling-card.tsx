@@ -1,6 +1,6 @@
 import { ArrowUpRight } from 'lucide-react'
 
-const skills = ['C++', 'Java', 'Assembly language']
+const skills = ['C++', 'Java', 'Python', 'Assembly language', 'Linux', 'Git', 'GitHub']
 const experience = ['Aerospace manufacturing', 'Assembly', 'Training coworkers']
 
 export function CallingCard() {
